@@ -1,4 +1,4 @@
-# CSV Annotation Tool
+# Annotation Tool
 
 This repository contains two Python scripts designed to facilitate the annotation of generated conversations using Gradio-based user interfaces. These tools help annotators review and refine generated text to ensure accuracy and consistency.
 

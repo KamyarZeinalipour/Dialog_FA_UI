@@ -38,7 +38,7 @@ Each script requires three arguments:
 This script is used for reviewing and refining translated conversations:
 
 ```bash
-python UI_eval_translate.py "Annotator_Name" path/to/input.csv path/to/output.csv
+python UI_eval_translate.py "Annotator_Name" path/to/input.csv 
 ```
 
 ### Running `UI_Eval_wiki.py`
